@@ -11,3 +11,4 @@ with smooth, high-performance, cross-browser animations — way more powerful th
 - ScrollTrigger plugin(trigger, scroller, scrub, pin)
 - SVG Animations
 - Custom Cursor
+- Timeline Animation
