@@ -12,3 +12,4 @@ with smooth, high-performance, cross-browser animations — way more powerful th
 - SVG Animations
 - Custom Cursor
 - Timeline Animation
+- Scroll Text Marque Animation
