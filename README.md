@@ -13,3 +13,7 @@ with smooth, high-performance, cross-browser animations — way more powerful th
 - Custom Cursor
 - Timeline Animation
 - Scroll Text Marque Animation
+
+## Project1
+- Built a simple animated website using pinterest design
+- Animate logo, navbar, button, hero section, scroll page animation
